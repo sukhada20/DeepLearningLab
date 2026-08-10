@@ -13,6 +13,8 @@ This repository contains the practical assignments completed as part of the Deep
 | 2 | [Housing Price Prediction using Deep Feed Forward Network](./Practical%202/Practical_2.md) | Predict house prices using a DFFN on a Kaggle housing dataset; evaluate using MAE, MSE, and RMSE. |
 | 3 | [Classification using Deep Feed Forward Network](./Practical%203/Practical_3.md) | Build a DFFN classifier on the Breast Cancer dataset; analyze confusion matrix and accuracy. |
 | 4 | [Regularization Techniques for Deep Learning](./Practical%204/Practical_4.md) | Implement L1/L2 regularization and Dropout to reduce overfitting in housing price prediction; compare with baseline. |
+| 5 | [Hyperparameter Tuning and Model Optimization](./Practical%205/Practical_5.md) | Improve deep learning model performance through tuning learning rate, batch size, number of layers, and activation functions. |
+| 6 | [Handwritten Digit Recognition using CNN](./Practical%206/Practical_6.md) | Design a CNN model to recognize handwritten digits using the MNIST dataset. |
 
 ## Repository Structure
 ```
@@ -29,6 +31,12 @@ This repository contains the practical assignments completed as part of the Deep
 ├── Practical 4/
 │   ├── DL_4.ipynb
 │   └── Practical_4.md
+├── Practical 5/
+│   ├── DL_5.ipynb
+│   └── Practical_5.md
+├── Practical 6/
+│   ├── DL_6.ipynb
+│   └── Practical_6.md
 └── README.md
 ```
 
