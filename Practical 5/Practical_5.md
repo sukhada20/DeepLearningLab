@@ -1,4 +1,4 @@
-# DL_3 – MNIST Classification using Deep Feed Forward Network
+# DL_5 – MNIST Classification using Deep Feed Forward Network
 
 ## Problem Statement
 Build a Deep Feed Forward Neural Network (DFFN) for handwritten digit classification using the MNIST dataset, and analyze the effect of different hyperparameters such as learning rate, optimizer, batch size, activation function, number of neurons, and number of epochs on model performance.
